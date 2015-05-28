@@ -1,0 +1,85 @@
+/*
+Theme Name: Flatco
+Description: Adds support for languages written in a Right To Left (RTL) direction.
+It's easy, just a matter of overwriting all the horizontal positioning attributes
+of your CSS stylesheet in a separate stylesheet file named rtl.css.
+
+See http://codex.wordpress.org/Right_to_Left_Language_Support
+*/
+
+
+body {
+    direction: rtl;
+    unicode-bidi: embed;
+}
+/*[class*="span"] {
+    float: right;
+}*/
+#header .tw-logo {
+    padding-right: 0;
+    padding-left: 30px;
+}
+.tw-menu-container {
+    float: left;
+}
+#header.stuck .tw-logo {
+    padding: 0 0 0 30px !important
+}
+#page-title h2 {
+    float: right;
+}
+#page-title span {
+    display: inline-block;
+}
+.pull-right {
+    float: left;
+}
+.loop-block .loop-meta {
+    margin-right: 0;
+    margin-left: 170px;
+}
+.loop-block a.more-link {
+    left: 0;
+    right: auto;
+}
+.tw-title-border {
+    right: 0;
+}
+.tw-author .author-image {
+    float: right;
+    margin-right: 0;
+    margin-left: 30px;
+}
+.comment-author img {
+    float: right;
+    margin: 0 0 30px 30px;
+}
+.comment-meta span.comment-replay-link {
+    right: auto;
+    left: 0;
+}
+.carousel-arrow a.carousel-next{
+    float: right;
+}
+ul.sf-menu li ul li a {
+    text-align: right;
+}
+.sf-menu ul ul {
+    top: 0;
+    right: 100% !important;
+    left: auto;
+}
+.likeit{
+    right: auto;
+    left: 15px;
+}
+.gallery-container .carousel-arrow a.carousel-prev{
+    margin-right: 5px;
+    float: left;
+}
+.gallery-container .carousel-arrow a.carousel-next{
+    float: right;
+}
+.gallery-slide{
+    max-width: 100%;
+}

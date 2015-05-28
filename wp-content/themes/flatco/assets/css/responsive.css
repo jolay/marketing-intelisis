@@ -1,0 +1,242 @@
+/* Large desktop */
+@media (min-width: 1920px) { 
+    #header .tw-logo-bg{
+        width:35%;
+    }
+}
+/* Large desktop */
+@media (max-width: 1200px) { 
+    .theme-boxed {
+        width:1000px;
+    }
+    #header .tw-logo-bg{
+        width: 15%;
+    }
+    ul.sf-menu > li > a{
+        margin: 0 15px;
+    }
+}
+/* Medium-Large desktop */
+@media only screen and (min-width: 1260px) { 
+    .theme-boxed {
+        width:1260px;
+    }
+}
+@media (min-width: 980px) {
+    #mobile-menu{
+        display: none !important;
+    }
+
+}
+@media (min-width: 768) {
+   .tw-social-icon a span,#bottom .tw-social-icon a span{
+        -webkit-transform: rotateY(0deg);
+        -moz-transform: rotateY(0deg);
+        -ms-transform: rotateY(0deg);
+        transform: rotateY(0deg);
+    }
+}
+@media (min-width: 979px) and (max-width: 1190px) { 
+    ul.sf-menu > li > a{
+        margin: 0 10px;
+    }
+}
+
+/* Portrait tablet to landscape and desktop */
+@media (min-width: 768px) and (max-width: 979px) { 
+    .tw-top-bar{
+        height: auto;
+    }
+    .theme-boxed {
+        width:auto;
+        margin: 0 !important;
+        padding: 0 !important;
+        border: none;
+    }
+    .show-mobile-menu {
+        margin-top: 40px;
+        background: none;
+        right: 0;
+        width: 100px;
+        position: absolute;
+    }
+    .rtl .show-mobile-menu {
+        right: auto;
+        left: 0;
+    }
+    #header.stuck .show-mobile-menu{
+        margin-top: 14px;
+    }
+    .show-mobile-menu .mobile-menu-text{
+        font-size: 0;
+    }
+    .show-mobile-menu .mobile-menu-icon{
+        margin-right: 0;
+    }
+    article.loop ul.loop-meta li.category{
+        display:none;
+    }
+    .related_portfolios article.tw_portfolio{
+        width: 226px;
+    }
+    header#header{
+        background: #2dcb73;
+    }
+    h2.portfolio-title{
+        width:100%;
+    }
+    .likeit{
+        display:none;
+    }
+    .portfolio-content{
+        padding:20px 0;
+    }
+    .team-member .member-title,.team-member h2, .team-member h2 a{
+        font-size: 10px;
+    }
+    .team-content{
+        margin: 4px;
+        font-size: 11px;
+    }
+    .image-overlay{
+        height:101%;
+    }
+}
+/* Portrait tablet to landscape and desktop */
+@media (min-width: 500px) and (max-width: 767px) {
+    article.tw_portfolio,.team-member.span3{
+        width: 100%;
+    }
+    .tw-portfolio .isotope-container,.tw-our-team{
+        margin-left: -20px;
+    }
+    .tw-our-team{
+        margin: 0 -10px;
+    }
+}
+
+/* Landscape phone to portrait tablet */
+@media (max-width: 767px) {
+    .theme-boxed {
+        width:auto;
+        margin: 0 !important;
+        padding: 0 !important;
+        border: none;
+    }
+    body,.tw-our-team{
+        padding: 0;
+        margin:0 !important;
+    }
+    .list_carousel li,.member-image img{
+        width: 100%;
+    }
+    #main .comment-block .comment-block{
+        margin-left: 0;
+        padding: 0;
+    }
+    .tw-pricing-col{
+        float:none;
+        display:block;
+        width:100% !important;
+    }
+    .callout-text {
+        padding-right: 0px !important;
+    }
+    .mobile-menu-icon span{
+        height: 5px !important;
+    }
+    .show-mobile-menu .mobile-menu-icon{
+        margin-top: 12px;
+    }
+    .span9 .tw-callout.with-button .callout-text{
+        padding-right: 0;
+    }
+    .callout-text>a.btn{
+        position: relative;
+        margin:0;
+    }
+    #main .container{
+        padding: 0 10px;
+    }
+    .tw-breadcrumb,.likeit,
+    article.loop ul.loop-meta li.category,.tw-top-bar-info{
+        display: none;
+    }
+    #header .tw-logo{
+        text-align: center;
+    }
+    .loop-media .link-text{
+        font-size: 18px;        
+    }
+    .loop-media .link-content{
+        padding: 20px 20px;
+    }
+    p.form-submit, .comment-form-author, .comment-form-comment{
+        float: none;
+        width: 100%;
+    }
+    .loop-meta.tag{
+        padding-right: 0;
+    }
+    .tw_post_sharebox{
+        position: static;
+        margin-top: 20px;
+    }
+    .list_carousel {
+        margin: 0 -10px !important;
+    }
+    .tw-404-error{
+        width: 310px;
+    }
+    .tw-404-search-container, .tw-coming-soon-content{
+        width: auto;
+        padding: 30px 0;
+    }
+    .error4button, .tw-cs-container input[type="submit"]{
+        margin-top: 10px;
+    }
+    #header .tw-logo{
+        width: 100%;
+        padding: 0;
+    }
+    .loop-image .image-overlay,.loop-image:hover .image-overlay, .slide-item:hover .image-overlay{
+        -webkit-transform: none;
+        -moz-transform: none;
+        -ms-transform: none;
+        transform: none;
+    }
+}
+
+/* Landscape phones and down */
+@media (max-width: 480px) {
+    .theme-boxed {
+        width:auto;
+    }
+    article.loop ul.loop-meta li, .tw-coming-soon>.sep,.tw-testimonials .testimonial-author {
+        display: none;
+    }
+    article.loop ul.loop-meta {
+        border-color: transparent;
+    }
+    .tw-carousel-twitter .carousel-arrow .carousel-prev{
+        left:5px;
+    }
+    .tw-carousel-twitter .carousel-arrow .carousel-next{
+        right:5px;
+    }
+    .page-template-template-coming_soon-php #main {
+        padding: 50px 0;
+    }
+    .tw-coming-soon .days, .tw-coming-soon .hours, .tw-coming-soon .minutes, .tw-coming-soon .seconds {
+        margin: 0 5px 5px 0;
+    }
+    .testimonial-content{
+        margin-left: 0;
+    }
+    .tw-social-icon a span,#bottom .tw-social-icon a span{
+        -webkit-transform: rotateY(0deg);
+        -moz-transform: rotateY(0deg);
+        -ms-transform: rotateY(0deg);
+        transform: rotateY(0deg);
+    }
+}

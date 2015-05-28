@@ -1,0 +1,1890 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Flatco v1.8\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-09-13 09:44:04+0000\n"
+"Last-Translator: themewaves <themewaves@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: search.php:16
+#@ themewaves
+msgid "For best search results, mind the following suggestions:"
+msgstr ""
+
+#: 404.php:14
+#: search.php:18
+#@ themewaves
+msgid "Always double check your spelling."
+msgstr ""
+
+#: 404.php:15
+#: search.php:19
+#@ themewaves
+msgid "Try similar keywords, for example: tablet instead of laptop."
+msgstr ""
+
+#: 404.php:16
+#: search.php:20
+#@ themewaves
+msgid "Try using more than one keyword."
+msgstr ""
+
+#: sidebar.php:32
+#@ themewaves
+msgid "Archives"
+msgstr ""
+
+#: admin/classes/class.options_machine.php:459
+#@ default
+msgid "Last Backup : "
+msgstr ""
+
+#: admin/front-end/options.php:43
+#: admin/front-end/options.php:67
+#@ default
+msgid "Save All Changes"
+msgstr ""
+
+#: admin/front-end/options.php:68
+#@ default
+msgid "Options Reset"
+msgstr ""
+
+#: admin/functions/functions.mediauploader.php:20
+#@ default
+msgid "Options"
+msgstr ""
+
+#: admin/functions/functions.mediauploader.php:210
+#@ optionsframework
+msgid "Gallery"
+msgstr ""
+
+#: admin/functions/functions.mediauploader.php:210
+#@ optionsframework
+msgid "Previously Uploaded"
+msgstr ""
+
+#: comments.php:21
+#@ themewaves
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:28
+#@ themewaves
+msgid "One Response to"
+msgstr ""
+
+#: comments.php:28
+#@ themewaves
+msgid "Responses to"
+msgstr ""
+
+#: comments.php:43
+#@ themewaves
+msgid "Comment"
+msgstr ""
+
+#: footer-comingsoon.php:29
+#: footer.php:49
+#@ themewaves
+msgid "Scroll to top"
+msgstr ""
+
+#: framework/breadcrumbs.php:13
+#@ themewaves
+msgid "Home"
+msgstr ""
+
+#: framework/breadcrumbs.php:14
+#, php-format
+#@ themewaves
+msgid "Archive by Category \"%s\""
+msgstr ""
+
+#: framework/breadcrumbs.php:15
+#, php-format
+#@ themewaves
+msgid "Search Results for \"%s\" query"
+msgstr ""
+
+#: framework/breadcrumbs.php:16
+#, php-format
+#@ themewaves
+msgid "Posts Tagged \"%s\""
+msgstr ""
+
+#: framework/breadcrumbs.php:17
+#, php-format
+#@ themewaves
+msgid "Articles Posted by %s"
+msgstr ""
+
+#: framework/breadcrumbs.php:18
+#@ themewaves
+msgid "Error 404"
+msgstr ""
+
+#: 404.php:9
+#: framework/breadcrumbs.php:132
+#@ themewaves
+msgid "Page"
+msgstr ""
+
+#: framework/pagebuilder/pagebuilder.php:322
+#@ themewaves
+msgid "ON"
+msgstr ""
+
+#: framework/pagebuilder/pagebuilder.php:322
+#@ themewaves
+msgid "OFF"
+msgstr ""
+
+#: framework/pagebuilder/pagebuilder.php:443
+#@ cmeta_pagebuilder_td
+msgid "Page Builder"
+msgstr ""
+
+#: framework/pagebuilder/pagebuilder.php:600
+#@ themewaves
+msgid "Template name is allready exist. Please insert the template name and try again"
+msgstr ""
+
+#: framework/pagebuilder/pagebuilder.php:606
+#@ themewaves
+msgid "Template added"
+msgstr ""
+
+#: framework/pagebuilder/pagebuilder.php:624
+#: framework/pagebuilder/pagebuilder.php:641
+#@ themewaves
+msgid "Template name not exsist"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:164
+#: framework/plugins/install-plugin.php:84
+#@ tgmpa
+#@ themewaves
+msgid "Install Required Plugins"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:165
+#: framework/plugins/install-plugin.php:85
+#@ tgmpa
+#@ themewaves
+msgid "Install Plugins"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:166
+#: framework/plugins/install-plugin.php:86
+#, php-format
+#@ tgmpa
+#@ themewaves
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:167
+#@ tgmpa
+msgid "Something went wrong."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:168
+#: framework/plugins/install-plugin.php:88
+#, php-format
+#@ themewaves
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:169
+#: framework/plugins/install-plugin.php:89
+#, php-format
+#@ themewaves
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:170
+#: framework/plugins/install-plugin.php:90
+#, php-format
+#@ themewaves
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:171
+#: framework/plugins/install-plugin.php:91
+#, php-format
+#@ themewaves
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:172
+#: framework/plugins/install-plugin.php:92
+#, php-format
+#@ themewaves
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:173
+#: framework/plugins/install-plugin.php:93
+#, php-format
+#@ themewaves
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:174
+#: framework/plugins/install-plugin.php:94
+#, php-format
+#@ themewaves
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:175
+#: framework/plugins/install-plugin.php:95
+#, php-format
+#@ themewaves
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:176
+#: framework/plugins/install-plugin.php:96
+#@ themewaves
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:177
+#: framework/plugins/install-plugin.php:97
+#@ themewaves
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:178
+#: framework/plugins/install-plugin.php:98
+#@ tgmpa
+#@ themewaves
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:180
+#: framework/plugins/class-tgm-plugin-activation.php:1849
+#: framework/plugins/install-plugin.php:99
+#@ tgmpa
+#@ themewaves
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:182
+#, php-format
+#@ tgmpa
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2061
+#@ tgmpa
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:183
+#@ tgmpa
+msgid "Dismiss this notice"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:1094
+#@ tgmpa
+msgid "External Link"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:1099
+#@ tgmpa
+msgid "Private Repository"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:1102
+#@ tgmpa
+msgid "Pre-Packaged"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:1106
+#@ tgmpa
+msgid "WordPress Repository"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:1109
+#@ tgmpa
+msgid "Required"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:1109
+#@ tgmpa
+msgid "Recommended"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:1112
+#@ tgmpa
+msgid "Not Installed"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:1114
+#@ tgmpa
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:1284
+#, php-format
+#@ tgmpa
+msgid "No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:1300
+#@ tgmpa
+msgid "Plugin"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:1301
+#@ tgmpa
+msgid "Source"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:1302
+#@ tgmpa
+msgid "Type"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:1303
+#@ tgmpa
+msgid "Status"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:1321
+#@ tgmpa
+msgid "Install"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:1322
+#@ tgmpa
+msgid "Activate"
+msgstr ""
+
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: framework/plugins/class-tgm-plugin-activation.php:1547
+#: framework/plugins/class-tgm-plugin-activation.php:181
+#@ tgmpa
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:1832
+#@ tgmpa
+msgid "Install package not available."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:1833
+#, php-format
+#@ tgmpa
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:1834
+#@ tgmpa
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:1835
+#@ tgmpa
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:1836
+#@ tgmpa
+msgid "Plugin install failed."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:1837
+#@ tgmpa
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:1848
+#@ tgmpa
+msgid "Plugin activation failed."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:1958
+#@ tgmpa
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:1959
+#, php-format
+#@ tgmpa
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:1959
+#: framework/plugins/class-tgm-plugin-activation.php:1968
+#: woocommerce/tw_woocommerce.php:163
+#@ tgmpa
+#@ themewaves
+msgid "Show Details"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:1959
+#: framework/plugins/class-tgm-plugin-activation.php:1968
+#@ tgmpa
+msgid "Hide Details"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:1960
+#@ tgmpa
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:1961
+#, php-format
+#@ tgmpa
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:1965
+#@ tgmpa
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:1966
+#, php-format
+#@ tgmpa
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:1967
+#, php-format
+#@ tgmpa
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:1968
+#, php-format
+#@ tgmpa
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:1969
+#@ tgmpa
+msgid "All installations have been completed."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:1970
+#, php-format
+#@ tgmpa
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/plugins/install-plugin.php:87
+#@ themewaves
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: framework/plugins/install-plugin.php:100
+#, php-format
+#@ themewaves
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: framework/post-format.php:13
+#: framework/post-type/post-options.php:210
+#@ framework
+#@ themewaves
+msgid "Upload images"
+msgstr ""
+
+#: framework/post-format.php:14
+#: framework/post-type/post-options.php:211
+#@ framework
+#@ themewaves
+msgid "Select the images that should be upload to this gallery"
+msgstr ""
+
+#: framework/post-format.php:18
+#: framework/post-type/post-options.php:204
+#@ framework
+#@ themewaves
+msgid "Image height"
+msgstr ""
+
+#: framework/post-format.php:19
+#@ framework
+msgid "Slider height"
+msgstr ""
+
+#: framework/post-format.php:26
+#@ framework
+msgid "MP3 File URL"
+msgstr ""
+
+#: framework/post-format.php:27
+#@ framework
+msgid "The URL to the .mp3 audio file"
+msgstr ""
+
+#: framework/post-format.php:32
+#: framework/post-format.php:53
+#: framework/post-type/post-options.php:222
+#@ framework
+#@ themewaves
+msgid "Embeded Code"
+msgstr ""
+
+#: framework/post-format.php:33
+#@ framework
+msgid "The embed code"
+msgstr ""
+
+#: framework/post-format.php:41
+#@ framework
+msgid "M4V File URL"
+msgstr ""
+
+#: framework/post-format.php:42
+#@ framework
+msgid "The URL to the .m4v video file"
+msgstr ""
+
+#: framework/post-format.php:47
+#@ framework
+msgid "Video Thumbnail Image"
+msgstr ""
+
+#: framework/post-format.php:48
+#@ framework
+msgid "The preivew image."
+msgstr ""
+
+#: framework/post-format.php:54
+#: framework/post-type/post-options.php:223
+#@ framework
+#@ themewaves
+msgid "If you're not using self hosted video then you can include embeded code here."
+msgstr ""
+
+#: framework/post-format.php:62
+#@ framework
+msgid "The Quote"
+msgstr ""
+
+#: framework/post-format.php:63
+#@ framework
+msgid "Write your quote in this field."
+msgstr ""
+
+#: framework/post-format.php:68
+#@ framework
+msgid "The Author"
+msgstr ""
+
+#: framework/post-format.php:69
+#@ framework
+msgid "Write your author name of this."
+msgstr ""
+
+#: framework/post-format.php:77
+#: framework/post-format.php:86
+#@ framework
+msgid "The URL"
+msgstr ""
+
+#: framework/post-format.php:78
+#@ framework
+msgid "Insert the URL you wish to link to."
+msgstr ""
+
+#: framework/post-format.php:87
+#@ framework
+msgid "Insert the status URL."
+msgstr ""
+
+#: framework/post-format.php:103
+#@ themewaves
+msgid "Quote Settings"
+msgstr ""
+
+#: framework/post-format.php:105
+#@ themewaves
+msgid "Link Settings"
+msgstr ""
+
+#: framework/post-format.php:106
+#@ themewaves
+msgid "Audio Settings"
+msgstr ""
+
+#: framework/post-format.php:107
+#@ themewaves
+msgid "Video Settings"
+msgstr ""
+
+#: framework/post-format.php:108
+#@ themewaves
+msgid "Status Settings"
+msgstr ""
+
+#: framework/post-type/metaboxes.php:69
+#@ themewaves
+msgid "Insert image"
+msgstr ""
+
+#: framework/post-type/metaboxes.php:184
+#@ themewaves
+msgid "Edit Gallery"
+msgstr ""
+
+#: framework/post-type/metaboxes.php:184
+#@ themewaves
+msgid "Upload Images"
+msgstr ""
+
+#: framework/post-type/post-options.php:41
+#@ themewaves
+msgid "Post Author Show?"
+msgstr ""
+
+#: framework/post-type/post-options.php:42
+#: framework/post-type/post-options.php:48
+#: framework/post-type/post-options.php:60
+#: framework/post-type/post-options.php:113
+#@ themewaves
+msgid "Default setting will take from theme options."
+msgstr ""
+
+#: framework/post-type/post-options.php:47
+#@ themewaves
+msgid "Featured Media Show?"
+msgstr ""
+
+#: framework/post-type/post-options.php:53
+#@ themewaves
+msgid "Featured Image Height?"
+msgstr ""
+
+#: framework/post-type/post-options.php:54
+#@ themewaves
+msgid "Image height (px)."
+msgstr ""
+
+#: framework/post-type/post-options.php:59
+#@ themewaves
+msgid "Breadcrumbs on this page?"
+msgstr ""
+
+#: framework/post-type/post-options.php:65
+#@ themewaves
+msgid "Choose Post Layout?"
+msgstr ""
+
+#: framework/post-type/post-options.php:71
+#@ themewaves
+msgid "Choose Sidebar ?"
+msgstr ""
+
+#: framework/post-type/post-options.php:93
+#@ themewaves
+msgid "All of your created sliders will be included here."
+msgstr ""
+
+#: framework/post-type/post-options.php:97
+#: framework/post-type/post-options.php:189
+#@ themewaves
+msgid "Sub Title"
+msgstr ""
+
+#: framework/post-type/post-options.php:112
+#@ themewaves
+msgid "Breadcrumbs on this post?"
+msgstr ""
+
+#: framework/post-type/post-options.php:167
+#@ themewaves
+msgid "Page Layout ?"
+msgstr ""
+
+#: framework/post-type/post-options.php:168
+#@ themewaves
+msgid "Layout-aa songono uu"
+msgstr ""
+
+#: framework/post-type/post-options.php:174
+#@ themewaves
+msgid "Sidebar ?"
+msgstr ""
+
+#: framework/post-type/post-options.php:175
+#@ themewaves
+msgid "Sidebar-aa songono uu"
+msgstr ""
+
+#: framework/post-type/post-options.php:199
+#: framework/post-type/post-options.php:200
+#@ themewaves
+msgid "Preview url"
+msgstr ""
+
+#: framework/post-type/post-options.php:205
+#@ themewaves
+msgid "Image height on single portfolio"
+msgstr ""
+
+#: framework/post-type/post-options.php:215
+#@ themewaves
+msgid "Gallery height"
+msgstr ""
+
+#: framework/post-type/post-options.php:216
+#@ themewaves
+msgid "Gallery height on single portfolio"
+msgstr ""
+
+#: framework/post-type/post-options.php:250
+#: framework/post-type/post-type.php:212
+#: framework/post-type/post-type.php:262
+#: framework/theme_functions.php:687
+#@ themewaves
+msgid "Name"
+msgstr ""
+
+#: framework/post-type/post-options.php:255
+#@ themewaves
+msgid "Company name"
+msgstr ""
+
+#: framework/post-type/post-options.php:260
+#@ themewaves
+msgid "Link to url"
+msgstr ""
+
+#: framework/post-type/post-options.php:272
+#@ themewaves
+msgid "Position"
+msgstr ""
+
+#: framework/post-type/post-options.php:273
+#@ themewaves
+msgid "Member position"
+msgstr ""
+
+#: framework/post-type/post-options.php:282
+#: framework/post-type/post-options.php:283
+#@ themewaves
+msgid "Facebook url"
+msgstr ""
+
+#: framework/post-type/post-options.php:297
+#: framework/post-type/post-options.php:298
+#@ themewaves
+msgid "Linkedin url"
+msgstr ""
+
+#: framework/post-type/post-options.php:292
+#: framework/post-type/post-options.php:293
+#@ themewaves
+msgid "Twitter url"
+msgstr ""
+
+#: framework/post-type/post-options.php:309
+#@ themewaves
+msgid "Partner Link to URL"
+msgstr ""
+
+#: framework/post-type/post-options.php:326
+#@ themewaves
+msgid "Price"
+msgstr ""
+
+#: framework/post-type/post-options.php:327
+#@ themewaves
+msgid "Please insert with $ symbol."
+msgstr ""
+
+#: framework/post-type/post-options.php:337
+#@ themewaves
+msgid "Price Time"
+msgstr ""
+
+#: framework/post-type/post-options.php:338
+#@ themewaves
+msgid "Price time option. Example: Month, Day, Year etc."
+msgstr ""
+
+#: framework/post-type/post-options.php:343
+#@ themewaves
+msgid "Button text"
+msgstr ""
+
+#: framework/post-type/post-options.php:348
+#@ themewaves
+msgid "Button URL"
+msgstr ""
+
+#: framework/post-type/post-options.php:359
+#@ themewaves
+msgid "Post settings"
+msgstr ""
+
+#: framework/post-type/post-options.php:367
+#@ themewaves
+msgid "Page settings"
+msgstr ""
+
+#: framework/post-type/post-options.php:376
+#@ themewaves
+msgid "Portfolio settings"
+msgstr ""
+
+#: framework/post-type/post-options.php:377
+#@ themewaves
+msgid "Portfolio gallery settings"
+msgstr ""
+
+#: framework/post-type/post-options.php:378
+#@ themewaves
+msgid "Portfolio video settings"
+msgstr ""
+
+#: framework/post-type/post-options.php:386
+#@ themewaves
+msgid "Testimonial settings"
+msgstr ""
+
+#: framework/post-type/post-options.php:394
+#@ themewaves
+msgid "Team settings"
+msgstr ""
+
+#: framework/post-type/post-options.php:402
+#@ themewaves
+msgid "Partner settings"
+msgstr ""
+
+#: framework/post-type/post-options.php:410
+#@ themewaves
+msgid "Price settings"
+msgstr ""
+
+#: framework/post-type/post-type.php:14
+#@ waves
+msgid "Create Featured Gallery"
+msgstr ""
+
+#: framework/post-type/post-type.php:15
+#@ waves
+msgid "Edit Featured Gallery"
+msgstr ""
+
+#: framework/post-type/post-type.php:16
+#@ waves
+msgid "Save Featured Gallery"
+msgstr ""
+
+#: framework/post-type/post-type.php:17
+#@ waves
+msgid "Saving..."
+msgstr ""
+
+#: framework/theme_functions.php:229
+#@ themewaves
+msgid "Portfolio"
+msgstr ""
+
+#: framework/post-type/post-type.php:77
+#: framework/post-type/post-type.php:127
+#: framework/post-type/post-type.php:177
+#: framework/post-type/post-type.php:228
+#: framework/post-type/post-type.php:279
+#@ themewaves
+msgid "Add New"
+msgstr ""
+
+#: framework/post-type/post-type.php:78
+#@ themewaves
+msgid "Add New Portfolio"
+msgstr ""
+
+#: framework/post-type/post-type.php:79
+#@ themewaves
+msgid "Edit Portfolio"
+msgstr ""
+
+#: framework/post-type/post-type.php:80
+#@ themewaves
+msgid "New Portfolio"
+msgstr ""
+
+#: framework/post-type/post-type.php:81
+#@ themewaves
+msgid "All Portfolios"
+msgstr ""
+
+#: framework/post-type/post-type.php:82
+#@ themewaves
+msgid "View Portfolio"
+msgstr ""
+
+#: framework/post-type/post-type.php:83
+#@ themewaves
+msgid "Search Portfolios"
+msgstr ""
+
+#: framework/post-type/post-type.php:84
+#@ themewaves
+msgid "No Portfolio found"
+msgstr ""
+
+#: framework/post-type/post-type.php:85
+#@ themewaves
+msgid "No Portfolio found in Trash"
+msgstr ""
+
+#: framework/post-type/post-type.php:86
+#@ themewaves
+msgid "Portfolios"
+msgstr ""
+
+#: framework/post-type/post-type.php:105
+#: framework/post-type/post-type.php:112
+#: framework/post-type/post-type.php:155
+#: framework/post-type/post-type.php:162
+#: framework/post-type/post-type.php:205
+#: framework/post-type/post-type.php:213
+#: framework/post-type/post-type.php:256
+#: framework/post-type/post-type.php:263
+#: framework/post-type/post-type.php:307
+#: framework/post-type/post-type.php:315
+#@ themewaves
+msgid "Categories"
+msgstr ""
+
+#: framework/post-type/post-type.php:105
+#@ themewaves
+msgid "Portfolio Category"
+msgstr ""
+
+#: framework/post-type/post-type.php:111
+#@ themewaves
+msgid "Portfolio Title"
+msgstr ""
+
+#: framework/post-type/post-type.php:113
+#: framework/post-type/post-type.php:163
+#: framework/post-type/post-type.php:214
+#: framework/post-type/post-type.php:264
+#: framework/post-type/post-type.php:316
+#@ themewaves
+msgid "Date"
+msgstr ""
+
+#: framework/post-type/post-type.php:125
+#: framework/post-type/post-type.php:136
+#@ themewaves
+msgid "Pricing Tables"
+msgstr ""
+
+#: framework/post-type/post-type.php:126
+#@ themewaves
+msgid "Price Item"
+msgstr ""
+
+#: framework/post-type/post-type.php:128
+#@ themewaves
+msgid "Add New Item"
+msgstr ""
+
+#: framework/post-type/post-type.php:129
+#: framework/post-type/post-type.php:281
+#@ themewaves
+msgid "Edit Item"
+msgstr ""
+
+#: framework/post-type/post-type.php:130
+#: framework/post-type/post-type.php:282
+#@ themewaves
+msgid "New Item"
+msgstr ""
+
+#: framework/post-type/post-type.php:131
+#@ themewaves
+msgid "All Tables"
+msgstr ""
+
+#: framework/post-type/post-type.php:132
+#@ themewaves
+msgid "View Price Item"
+msgstr ""
+
+#: framework/post-type/post-type.php:133
+#@ themewaves
+msgid "Search Pricing Tables"
+msgstr ""
+
+#: framework/post-type/post-type.php:134
+#@ themewaves
+msgid "No Tables found"
+msgstr ""
+
+#: framework/post-type/post-type.php:135
+#@ themewaves
+msgid "No Tables in Trash"
+msgstr ""
+
+#: framework/post-type/post-type.php:155
+#@ themewaves
+msgid "Price Category"
+msgstr ""
+
+#: framework/post-type/post-type.php:161
+#@ themewaves
+msgid "Table name"
+msgstr ""
+
+#: framework/post-type/post-type.php:175
+#: framework/post-type/post-type.php:176
+#@ themewaves
+msgid "Member"
+msgstr ""
+
+#: framework/post-type/post-type.php:178
+#@ themewaves
+msgid "Add New Member"
+msgstr ""
+
+#: framework/post-type/post-type.php:179
+#@ themewaves
+msgid "Edit Member"
+msgstr ""
+
+#: framework/post-type/post-type.php:180
+#@ themewaves
+msgid "New Member"
+msgstr ""
+
+#: framework/post-type/post-type.php:181
+#@ themewaves
+msgid "All Members"
+msgstr ""
+
+#: framework/post-type/post-type.php:182
+#@ themewaves
+msgid "View Member"
+msgstr ""
+
+#: framework/post-type/post-type.php:183
+#@ themewaves
+msgid "Search Member"
+msgstr ""
+
+#: framework/post-type/post-type.php:184
+#@ themewaves
+msgid "No member found"
+msgstr ""
+
+#: framework/post-type/post-type.php:185
+#@ themewaves
+msgid "No member found in Trash"
+msgstr ""
+
+#: framework/post-type/post-type.php:186
+#@ themewaves
+msgid "Team"
+msgstr ""
+
+#: framework/theme_functions.php:224
+#@ themewaves
+msgid "Category"
+msgstr ""
+
+#: framework/post-type/post-type.php:211
+#: framework/post-type/post-type.php:313
+#@ themewaves
+msgid "Image"
+msgstr ""
+
+#: framework/post-type/post-type.php:226
+#: framework/post-type/post-type.php:227
+#@ themewaves
+msgid "Testimonial"
+msgstr ""
+
+#: framework/post-type/post-type.php:229
+#@ themewaves
+msgid "Add New Testimonial"
+msgstr ""
+
+#: framework/post-type/post-type.php:230
+#@ themewaves
+msgid "Edit Testimonial"
+msgstr ""
+
+#: framework/post-type/post-type.php:231
+#@ themewaves
+msgid "New Testimonial"
+msgstr ""
+
+#: framework/post-type/post-type.php:232
+#@ themewaves
+msgid "All Testimonials"
+msgstr ""
+
+#: framework/post-type/post-type.php:233
+#@ themewaves
+msgid "View Testimonial"
+msgstr ""
+
+#: framework/post-type/post-type.php:234
+#@ themewaves
+msgid "Search Testimonials"
+msgstr ""
+
+#: framework/post-type/post-type.php:235
+#@ themewaves
+msgid "No testimonial found"
+msgstr ""
+
+#: framework/post-type/post-type.php:236
+#@ themewaves
+msgid "No testimonial found in Trash"
+msgstr ""
+
+#: framework/post-type/post-type.php:237
+#@ themewaves
+msgid "Testimonials"
+msgstr ""
+
+#: framework/post-type/post-type.php:256
+#@ themewaves
+msgid "Testimonial Category"
+msgstr ""
+
+#: framework/post-type/post-type.php:277
+#@ themewaves
+msgid "Our Partners"
+msgstr ""
+
+#: framework/post-type/post-type.php:278
+#@ themewaves
+msgid "Partner"
+msgstr ""
+
+#: framework/post-type/post-type.php:280
+#@ themewaves
+msgid "Add New Partner"
+msgstr ""
+
+#: framework/post-type/post-type.php:283
+#@ themewaves
+msgid "All Partners"
+msgstr ""
+
+#: framework/post-type/post-type.php:284
+#@ themewaves
+msgid "View Partner"
+msgstr ""
+
+#: framework/post-type/post-type.php:285
+#@ themewaves
+msgid "Search Partners"
+msgstr ""
+
+#: framework/post-type/post-type.php:286
+#@ themewaves
+msgid "No Partner found"
+msgstr ""
+
+#: framework/post-type/post-type.php:287
+#@ themewaves
+msgid "No partner in Trash"
+msgstr ""
+
+#: framework/post-type/post-type.php:288
+#: framework/post-type/post-type.php:314
+#@ themewaves
+msgid "Partners"
+msgstr ""
+
+#: framework/shortcode/shortcode.php:44
+#@ themewaves
+msgid "Select Shortcode"
+msgstr ""
+
+#: framework/shortcode/shortcode_render.php:965
+#@ themewaves
+msgid "Choose Slider"
+msgstr ""
+
+#: framework/shortcode/shortcode_render.php:1473
+#@ themewaves
+msgid "Show All"
+msgstr ""
+
+#: framework/theme_functions.php:234
+#@ themewaves
+msgid "Tag"
+msgstr ""
+
+#: framework/theme_functions.php:238
+#@ themewaves
+msgid "Nothing Found!"
+msgstr ""
+
+#: framework/theme_functions.php:243
+#@ themewaves
+msgid "Author: "
+msgstr ""
+
+#: framework/theme_functions.php:248
+#@ themewaves
+msgid "Daily Archives"
+msgstr ""
+
+#: framework/theme_functions.php:250
+#@ themewaves
+msgid "Monthly Archives"
+msgstr ""
+
+#: framework/theme_functions.php:252
+#@ themewaves
+msgid "Yearly Archives"
+msgstr ""
+
+#: framework/theme_functions.php:254
+#@ themewaves
+msgid "Blog Archives"
+msgstr ""
+
+#: framework/theme_functions.php:259
+#@ themewaves
+msgid "Search results for"
+msgstr ""
+
+#: framework/theme_functions.php:294
+#, php-format
+#@ themewaves
+msgid "Page %s"
+msgstr ""
+
+#: framework/theme_functions.php:588
+#@ themewaves
+msgid "&laquo;"
+msgstr ""
+
+#: framework/theme_functions.php:589
+#@ themewaves
+msgid "&raquo;"
+msgstr ""
+
+#: framework/theme_functions.php:609
+#@ themewaves
+msgid "No more posts"
+msgstr ""
+
+#: framework/theme_functions.php:610
+#@ themewaves
+msgid "Loading posts ..."
+msgstr ""
+
+#: framework/theme_functions.php:611
+#@ themewaves
+msgid "Load More Items"
+msgstr ""
+
+#: framework/theme_functions.php:628
+#@ themewaves
+msgid "No comment"
+msgstr ""
+
+#: framework/theme_functions.php:630
+#@ themewaves
+msgid "One comment"
+msgstr ""
+
+#: framework/theme_functions.php:632
+#@ themewaves
+msgid "comments"
+msgstr ""
+
+#: framework/theme_functions.php:654
+#, php-format
+#@ themewaves
+msgid "%1$s"
+msgstr ""
+
+#: framework/theme_functions.php:689
+#@ themewaves
+msgid "Email"
+msgstr ""
+
+#: framework/theme_functions.php:757
+#@ themewaves
+msgid "The author didnt add any Information to his profile yet"
+msgstr ""
+
+#: framework/theme_functions.php:772
+#@ themewaves
+msgid "Related portfolio items"
+msgstr ""
+
+#: framework/widget/contact_widget.php:27
+#: framework/widget/dribbble_widget.php:19
+#: framework/widget/flickr_widget.php:20
+#: framework/widget/recent_posts_widget.php:120
+#@ themewaves
+msgid "Title:"
+msgstr ""
+
+#: framework/widget/flickr_widget.php:29
+#@ themewaves
+msgid "Flickr user ID:"
+msgstr ""
+
+#: framework/widget/flickr_widget.php:36
+#@ themewaves
+msgid "How many pictures display:"
+msgstr ""
+
+#: functions.php:169
+#@ themewaves
+msgid "Footer sidebar "
+msgstr ""
+
+#: functions.php:171
+#@ themewaves
+msgid "The footer sidebar widget area"
+msgstr ""
+
+#: functions.php:244
+#@ themewaves
+msgid "Type and hit enter"
+msgstr ""
+
+#: search.php:10
+#@ themewaves
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr ""
+
+#: framework/post-format.php:104
+#@ themewaves
+msgid "Gallery Settings"
+msgstr ""
+
+#: framework/post-type/post-options.php:85
+#@ themewaves
+msgid "Header type ?"
+msgstr ""
+
+#: framework/post-type/post-options.php:92
+#@ themewaves
+msgid "Select Slideshow"
+msgstr ""
+
+#: framework/post-type/post-options.php:102
+#: framework/post-type/post-options.php:194
+#@ themewaves
+msgid "Background image of page title"
+msgstr ""
+
+#: framework/post-type/post-options.php:107
+#@ themewaves
+msgid "Google Map"
+msgstr ""
+
+#: framework/post-type/post-options.php:287
+#: framework/post-type/post-options.php:288
+#@ themewaves
+msgid "Google Plus url"
+msgstr ""
+
+#: framework/theme_functions.php:651
+#: loop.php:69
+#: single.php:57
+#@ themewaves
+msgid "By"
+msgstr ""
+
+#: framework/theme_functions.php:744
+#@ themewaves
+msgid "Written by "
+msgstr ""
+
+#: framework/widget/dribbble_widget.php:21
+#@ themewaves
+msgid "dribbble user ID:"
+msgstr ""
+
+#: framework/widget/dribbble_widget.php:28
+#@ themewaves
+msgid "How many dribbble display:"
+msgstr ""
+
+#: 404.php:9
+#: framework/widget/dribbble_widget.php:69
+#@ themewaves
+msgid "Error"
+msgstr ""
+
+#: framework/post-type/post-options.php:118
+#: header.php:57
+#@ themewaves
+msgid "Menu"
+msgstr ""
+
+#: single-tw_portfolio.php:35
+#@ themewaves
+msgid "Project Description"
+msgstr ""
+
+#: 404.php:9
+#@ themewaves
+msgid "404"
+msgstr ""
+
+#: 404.php:10
+#@ themewaves
+msgid "Oops! We couldn’t find it ..."
+msgstr ""
+
+#: 404.php:20
+#@ themewaves
+msgid "Go to Home Page"
+msgstr ""
+
+#: comments.php:45
+#@ themewaves
+msgid "Leave a Comment"
+msgstr ""
+
+#: comments.php:46
+#, php-format
+#@ themewaves
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: framework/pagebuilder/pagebuilder.php:292
+#@ themewaves
+msgid "Edit Chart"
+msgstr ""
+
+#: framework/pagebuilder/pagebuilder.php:297
+#@ themewaves
+msgid "Edit Icon"
+msgstr ""
+
+#: framework/pagebuilder/pagebuilder.php:534
+#@ themewaves
+msgid "Add Container"
+msgstr ""
+
+#: framework/post-type/post-options.php:17
+#@ themewaves
+msgid "January"
+msgstr ""
+
+#: framework/post-type/post-options.php:17
+#@ themewaves
+msgid "February"
+msgstr ""
+
+#: framework/post-type/post-options.php:17
+#@ themewaves
+msgid "March"
+msgstr ""
+
+#: framework/post-type/post-options.php:18
+#@ themewaves
+msgid "April"
+msgstr ""
+
+#: framework/post-type/post-options.php:18
+#@ themewaves
+msgid "May"
+msgstr ""
+
+#: framework/post-type/post-options.php:18
+#@ themewaves
+msgid "June"
+msgstr ""
+
+#: framework/post-type/post-options.php:19
+#@ themewaves
+msgid "July"
+msgstr ""
+
+#: framework/post-type/post-options.php:19
+#@ themewaves
+msgid "August"
+msgstr ""
+
+#: framework/post-type/post-options.php:19
+#@ themewaves
+msgid "Septempber"
+msgstr ""
+
+#: framework/post-type/post-options.php:20
+#@ themewaves
+msgid "October"
+msgstr ""
+
+#: framework/post-type/post-options.php:20
+#@ themewaves
+msgid "November"
+msgstr ""
+
+#: framework/post-type/post-options.php:20
+#@ themewaves
+msgid "December"
+msgstr ""
+
+#: framework/post-type/post-options.php:126
+#@ themewaves
+msgid "Years"
+msgstr ""
+
+#: framework/post-type/post-options.php:134
+#@ themewaves
+msgid "Months"
+msgstr ""
+
+#: framework/post-type/post-options.php:142
+#@ themewaves
+msgid "Days"
+msgstr ""
+
+#: framework/post-type/post-options.php:150
+#@ themewaves
+msgid "Hours"
+msgstr ""
+
+#: framework/post-type/post-options.php:158
+#@ themewaves
+msgid "Your Feedburner Title"
+msgstr ""
+
+#: framework/post-type/post-options.php:159
+#@ themewaves
+msgid "If empty, Subscribe form none"
+msgstr ""
+
+#: framework/post-type/post-options.php:277
+#@ themewaves
+msgid "Background color"
+msgstr ""
+
+#: framework/post-type/post-options.php:278
+#@ themewaves
+msgid "Choose color"
+msgstr ""
+
+#: framework/post-type/post-options.php:321
+#@ themewaves
+msgid "Color"
+msgstr ""
+
+#: framework/post-type/post-options.php:340
+#@ themewaves
+msgid "month"
+msgstr ""
+
+#: framework/post-type/post-options.php:368
+#@ themewaves
+msgid "ComingSoon page settings"
+msgstr ""
+
+#: framework/post-type/post-type.php:205
+#@ themewaves
+msgid "Team Category"
+msgstr ""
+
+#: framework/post-type/post-type.php:307
+#@ themewaves
+msgid "Partner Category"
+msgstr ""
+
+#: framework/shortcode/shortcode_render.php:1208
+#@ themewaves
+msgid "Due to Twitter API changed you must insert Twitter APP. Check Our theme Options there you have Option for FB Twitter API, insert the Keys One Time"
+msgstr ""
+
+#: framework/shortcode/shortcode_render.php:1323
+#: framework/shortcode/shortcode_render.php:1359
+#@ themewaves
+msgid "Follow Us"
+msgstr ""
+
+#: framework/shortcode/shortcode_render.php:1965
+#@ themewaves
+msgid "DAYS"
+msgstr ""
+
+#: framework/shortcode/shortcode_render.php:1970
+#@ themewaves
+msgid "HOURS"
+msgstr ""
+
+#: framework/shortcode/shortcode_render.php:1975
+#@ themewaves
+msgid "MINUTES"
+msgstr ""
+
+#: framework/shortcode/shortcode_render.php:1980
+#@ themewaves
+msgid "SECONDS"
+msgstr ""
+
+#: framework/shortcode/shortcode_render.php:1986
+#@ themewaves
+msgid "Your email here"
+msgstr ""
+
+#: framework/shortcode/shortcode_render.php:1987
+#@ themewaves
+msgid "SUBSCRIBE NOW"
+msgstr ""
+
+#: framework/theme_functions.php:336
+#@ themewaves
+msgid "View Large"
+msgstr ""
+
+#: framework/widget/recent_posts_widget.php:72
+#@ themewaves
+msgid "Posted "
+msgstr ""
+
+#: framework/widget/recent_posts_widget.php:74
+#@ themewaves
+msgid "By "
+msgstr ""
+
+#: loop.php:9
+#@ themewaves
+msgid "Continue Reading"
+msgstr ""
+
+#: loop.php:68
+#: single.php:56
+#@ themewaves
+msgid "Posted On"
+msgstr ""
+
+#: loop.php:70
+#: single.php:58
+#@ themewaves
+msgid "In"
+msgstr ""
+
+#: single-tw_portfolio.php:46
+#@ default
+msgid "Favorites"
+msgstr ""
+
+#: single-tw_portfolio.php:36
+#@ themewaves
+msgid "LIVE PREVIEW"
+msgstr ""
+
+#: single.php:70
+#@ themewaves
+msgid "Post Tags - "
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:179
+#@ tgmpa
+msgid "Return to the dashboard"
+msgstr ""
+
+#: framework/post-type/metaboxes.php:245
+#, php-format
+#@ default
+msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
+msgstr ""
+
+#: framework/post-type/metaboxes.php:248
+#@ themewaves
+msgid "Default"
+msgstr ""
+
+#: framework/post-type/post-options.php:229
+#@ themewaves
+msgid "Show light box?"
+msgstr ""
+
+#: framework/post-type/post-options.php:230
+#@ themewaves
+msgid "It works when featured image is selected."
+msgstr ""
+
+#: framework/post-type/post-options.php:237
+#@ themewaves
+msgid "Pretty Video URL"
+msgstr ""
+
+#: framework/post-type/post-options.php:331
+#@ themewaves
+msgid "Sub Price"
+msgstr ""
+
+#: framework/post-type/post-options.php:332
+#@ themewaves
+msgid "Please insert value."
+msgstr ""
+
+#: framework/post-type/post-options.php:334
+#@ themewaves
+msgid ".00"
+msgstr ""
+
+#: framework/shortcode/shortcode_render.php:1221
+#@ themewaves
+msgid "You'll need to regenerate it <a href=\"https://dev.twitter.com/apps\" target=\"_blank\">here</a>!"
+msgstr ""
+
+#: framework/shortcode/shortcode_render.php:1275
+#@ themewaves
+msgid "right now"
+msgstr ""
+
+#: framework/shortcode/shortcode_render.php:1278
+#@ themewaves
+msgid " seconds ago"
+msgstr ""
+
+#: framework/shortcode/shortcode_render.php:1281
+#@ themewaves
+msgid "about 1 minute ago"
+msgstr ""
+
+#: framework/shortcode/shortcode_render.php:1284
+#@ themewaves
+msgid " minutes ago"
+msgstr ""
+
+#: framework/shortcode/shortcode_render.php:1287
+#@ themewaves
+msgid "about 1 hour ago"
+msgstr ""
+
+#: framework/shortcode/shortcode_render.php:1290
+#@ themewaves
+msgid " hours ago"
+msgstr ""
+
+#: framework/shortcode/shortcode_render.php:1293
+#@ themewaves
+msgid "yesterday"
+msgstr ""
+
+#: framework/shortcode/shortcode_render.php:1296
+#@ themewaves
+msgid " days ago"
+msgstr ""
+
+#: framework/shortcode/shortcode_render.php:1298
+#@ themewaves
+msgid "over a year ago"
+msgstr ""
+
+#: framework/shortcode/shortcode_render.php:2024
+#@ themewaves
+msgid "Before"
+msgstr ""
+
+#: framework/shortcode/shortcode_render.php:2025
+#@ themewaves
+msgid "After"
+msgstr ""
+
+#: framework/widget/contact_widget.php:31
+#@ themewaves
+msgid "Address 1:"
+msgstr ""
+
+#: framework/widget/contact_widget.php:35
+#@ themewaves
+msgid "Address 2:"
+msgstr ""
+
+#: framework/widget/contact_widget.php:39
+#@ themewaves
+msgid "Phone number:"
+msgstr ""
+
+#: framework/widget/contact_widget.php:43
+#@ themewaves
+msgid "Email:"
+msgstr ""
+
+#: framework/widget/contact_widget.php:47
+#@ themewaves
+msgid "Email link url:"
+msgstr ""
+
+#: framework/widget/contact_widget.php:51
+#@ themewaves
+msgid "Web:"
+msgstr ""
+
+#: framework/widget/contact_widget.php:55
+#@ themewaves
+msgid "Web link url:"
+msgstr ""
+
+#: framework/widget/contact_widget.php:59
+#@ themewaves
+msgid "Facebook:"
+msgstr ""
+
+#: framework/widget/contact_widget.php:63
+#@ themewaves
+msgid "Facebook link url:"
+msgstr ""
+
+#: woocommerce/tw_woocommerce.php:81
+#@ woocommerce
+msgctxt "breadcrumb"
+msgid "Home"
+msgstr ""
+
+#: woocommerce/tw_woocommerce.php:158
+#@ themewaves
+msgid "Select options"
+msgstr ""
+

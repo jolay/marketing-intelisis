@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+	<!--[if IE 8]>
+		<html xmlns="http://www.w3.org/1999/xhtml" class="ie8" lang="es-ES">
+	<![endif]-->
+	<!--[if !(IE 8) ]><!-->
+		<html xmlns="http://www.w3.org/1999/xhtml" lang="es-ES">
+	<!--<![endif]-->
+	<head><link rel="stylesheet" type="text/css" href="http://localhost:8080/es/http://localhost:8080/wp-content/cache/minify/000000/M9VPKi0pyc8r1svNzNMx1U9JLM7ITIbxywt0E1OADP3k4mL9nPz0zDyQMAA.css" media="all" />
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title>Marketing &rsaquo; Acceder</title>
+	
+<link rel='stylesheet' id='open-sans-css'  href='//fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400italic%2C600italic%2C300%2C400%2C600&#038;subset=latin%2Clatin-ext&#038;ver=4.2.2' type='text/css' media='all' />
+
+
+<script type="text/javascript" src="http://localhost:8080/es/http://localhost:8080/wp-content/cache/minify/000000/LcYxCsAwCADAD8VKyYtETDCgpRqH_L5Lb7qO6y2J0_ofMJ1BWy5TbzdWSgAxSyYYOU0JXImjnLc-nh8.js"></script>
+<meta name='robots' content='noindex,follow' />
+	</head>
+	<body class="login login-action- wp-core-ui  locale-es-es">
+	<div id="login">
+		<h1><a href="http://localhost:8080/es" title="Marketing">Marketing</a></h1>
+	
+<form name="loginform" id="loginform" action="http://localhost:8080/es/ingresar/" method="post">
+	<p>
+		<label for="user_login">Nombre de usuario<br />
+		<input type="text" name="log" id="user_login" class="input" value="" size="20" /></label>
+	</p>
+	<p>
+		<label for="user_pass">Contraseña<br />
+		<input type="password" name="pwd" id="user_pass" class="input" value="" size="20" /></label>
+	</p>
+		<p class="forgetmenot"><label for="rememberme"><input name="rememberme" type="checkbox" id="rememberme" value="forever"  /> Recuérdame</label></p>
+	<p class="submit">
+		<input type="submit" name="wp-submit" id="wp-submit" class="button button-primary button-large" value="Acceder" />
+		<input type="hidden" name="redirect_to" value="http://localhost:8080/wp-admin/" />
+		<input type="hidden" name="testcookie" value="1" />
+	</p>
+</form>
+
+<p id="nav">
+<a href="http://localhost:8080/es/ingresar/?action=register">Registrarse</a> | 	<a href="http://localhost:8080/es/ingresar/?action=lostpassword" title="Recupera tu contraseña perdida">¿Has perdido tu contraseña?</a>
+</p>
+
+<script type="text/javascript">
+function wp_attempt_focus(){
+setTimeout( function(){ try{
+d = document.getElementById('user_login');
+d.focus();
+d.select();
+} catch(e){}
+}, 200);
+}
+
+wp_attempt_focus();
+if(typeof wpOnload=='function')wpOnload();
+</script>
+
+	<p id="backtoblog"><a href="http://localhost:8080/es/" title="¿Te has perdido?">&laquo; Volver a Marketing</a></p>
+	
+	</div>
+
+	
+		<div class="clear"></div>
+	</body>
+	</html>
+	
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Minified using disk
+Page Caching using disk: enhanced
+Database Caching 91/96 queries in 0.017 seconds using disk
+Object Caching 1731/1740 objects using disk
+Content Delivery Network via N/A
+Application Monitoring using New Relic
+
+ Served from: localhost @ 2015-05-20 11:52:30 by W3 Total Cache -->

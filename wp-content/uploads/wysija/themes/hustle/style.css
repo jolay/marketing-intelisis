@@ -1,0 +1,67 @@
+/*
+Theme Name: Hustle
+Description: One of the favorites over at Woo.
+Author: WooThemes
+Author URI: http://woothemes.com/
+Author Email: 
+Tags: grey, blue
+
+Note: the plugin won't recognize any additional styles if you add them. The styles below offer all the possibilities of Wysija.
+
+List of email client compatible fonts:
+
+Arial
+Arial Black
+Comic Sans MS
+Courier New
+Georgia
+Impact
+Tahoma
+Times New Roman
+Trebuchet MS
+Verdana
+
+*/
+html {
+    background-color: #f4f4f4; /* cannot be transparent and will default to white */
+}
+
+header {
+    background-color: transparent; /* can be transparent */
+}
+body {
+    color:#282828;
+    font-family: Tahoma;
+    font-size: 14px;
+    background-color: #ffffff; /* can be transparent */
+}
+footer {
+    background-color: transparent; /* can be transparent */
+}
+h1 {
+    color: #282828;
+    font-family: Tahoma;
+    font-size: 20px;
+}
+h2 {
+    color: #282828;
+    font-family: Tahoma;
+    font-size: 18px;
+}
+h3 {
+    color: #282828;
+    font-family: Tahoma;
+    font-size: 16px;
+}
+a {
+    color: #2293e2;
+    text-decoration:none;
+}
+unsubscribe {
+    color:#2293e2;
+}
+viewbrowser {
+	font-family: "Arial";
+	font-size:12px;
+	color:#2293e2;
+}

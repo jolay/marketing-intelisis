@@ -1,0 +1,2 @@
+[05/20/2015 4:04 PM] - FAILURE : AIOWPSecurity_Database_Menu->get_mysql_tables() - DB connection error.
+[05/20/2015 4:04 PM] - FAILURE : AIOWPSecurity_Database_Menu->get_mysql_tables() - DB connection error.

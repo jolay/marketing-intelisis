@@ -1,0 +1,7 @@
+#Ignore Files:
+wp-config.php
+.codio
+.DS_Store
+.htaccess
+startup.sh
+wp-content/wfcache/*

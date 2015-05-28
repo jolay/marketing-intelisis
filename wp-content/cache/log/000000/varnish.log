@@ -1,0 +1,20 @@
+[Wed, 20 May 2015 17:18:35 +0000] [http://localhost:8080/es/.*] Connecting to  ...
+[Wed, 20 May 2015 17:18:35 +0000] [http://localhost:8080/es/.*] PURGE /es/.* HTTP/1.1
+[Wed, 20 May 2015 17:18:35 +0000] [http://localhost:8080/es/.*] Host: localhost
+[Wed, 20 May 2015 17:18:35 +0000] [http://localhost:8080/es/.*] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: nodename nor servname provided, or not known.
+[Wed, 20 May 2015 17:22:50 +0000] [http://localhost:8080/es/.*] Connecting to  ...
+[Wed, 20 May 2015 17:22:50 +0000] [http://localhost:8080/es/.*] PURGE /es/.* HTTP/1.1
+[Wed, 20 May 2015 17:22:50 +0000] [http://localhost:8080/es/.*] Host: localhost
+[Wed, 20 May 2015 17:22:50 +0000] [http://localhost:8080/es/.*] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: nodename nor servname provided, or not known.
+[Wed, 20 May 2015 17:24:42 +0000] [http://localhost:8080/es/.*] Connecting to  ...
+[Wed, 20 May 2015 17:24:42 +0000] [http://localhost:8080/es/.*] PURGE /es/.* HTTP/1.1
+[Wed, 20 May 2015 17:24:42 +0000] [http://localhost:8080/es/.*] Host: localhost
+[Wed, 20 May 2015 17:24:42 +0000] [http://localhost:8080/es/.*] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: nodename nor servname provided, or not known.
+[Wed, 20 May 2015 17:30:09 +0000] [http://localhost:8080/es/.*] Connecting to  ...
+[Wed, 20 May 2015 17:30:09 +0000] [http://localhost:8080/es/.*] PURGE /es/.* HTTP/1.1
+[Wed, 20 May 2015 17:30:09 +0000] [http://localhost:8080/es/.*] Host: localhost
+[Wed, 20 May 2015 17:30:09 +0000] [http://localhost:8080/es/.*] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: nodename nor servname provided, or not known.
+[Wed, 20 May 2015 17:31:14 +0000] [http://localhost:8080/es/.*] Connecting to  ...
+[Wed, 20 May 2015 17:31:14 +0000] [http://localhost:8080/es/.*] PURGE /es/.* HTTP/1.1
+[Wed, 20 May 2015 17:31:14 +0000] [http://localhost:8080/es/.*] Host: localhost
+[Wed, 20 May 2015 17:31:14 +0000] [http://localhost:8080/es/.*] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: nodename nor servname provided, or not known.
